@@ -1,0 +1,2 @@
+# FCTProjectSGE
+ Odoo module
